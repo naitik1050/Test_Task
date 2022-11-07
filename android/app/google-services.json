@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "168233366374",
+    "firebase_url": "https://rewoketask-default-rtdb.firebaseio.com",
+    "project_id": "rewoketask",
+    "storage_bucket": "rewoketask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168233366374:android:54c557639c8ba69ece0ea7",
+        "android_client_info": {
+          "package_name": "com.rewoketask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168233366374-gmst2tqsmfha3n0pghjdf8rnh10s4jg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeHHPX6dCzzt4DyZGLbCiLxPKqn9__42c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168233366374-gmst2tqsmfha3n0pghjdf8rnh10s4jg7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168233366374-1gdl9splsnq4qv2s9umcrbvconsj1989.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.testTask"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168233366374:android:13dc0d60ecadd84cce0ea7",
+        "android_client_info": {
+          "package_name": "com.testtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168233366374-gmst2tqsmfha3n0pghjdf8rnh10s4jg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeHHPX6dCzzt4DyZGLbCiLxPKqn9__42c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168233366374-gmst2tqsmfha3n0pghjdf8rnh10s4jg7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168233366374-1gdl9splsnq4qv2s9umcrbvconsj1989.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.testTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
